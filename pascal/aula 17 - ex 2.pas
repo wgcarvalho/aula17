@@ -26,6 +26,6 @@ begin
 	pi:= (62.1*altura)-44.7;
 end;
 
-writeln('O peso ideal é: ',pi);
+writeln('O peso ideal é: ',pi:3:2);
 
 End.
