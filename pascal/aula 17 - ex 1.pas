@@ -28,7 +28,7 @@ begin
 	se:= 0;
 end;
 
-writeln('Salário Total: R$ ',st);
-writeln('Salário Excedente: R$ ', se);
+writeln('Salário Total: R$ ',st:4:2);
+writeln('Salário Excedente: R$ ', se:4:2);
   
 End.
